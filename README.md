@@ -35,5 +35,5 @@ Activity #4 Guide
   ```
   _(This uploads your changes to the main branch on GitHub.)_
 
-**To render the html file in web, use Live Server extension in VSCode"
+**To render the html file in web, use Live Server extension in VSCode**
 ![image](https://github.com/user-attachments/assets/85c22879-d8e8-4745-b23d-b5897621f5a1)
